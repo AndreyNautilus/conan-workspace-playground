@@ -1,0 +1,13 @@
+editables:
+    app/0.1@andrey/ws:
+        path: app
+    liba/0.1@andrey/ws:
+        path: liba
+    # libb/0.1@andrey/ws:
+    #     path: libb
+layout: layout.ini
+workspace_generator: cmake
+root:
+    - app/0.1@andrey/ws
+    # - liba/0.1@andrey/ws
+    # - libb/0.1@andrey/ws

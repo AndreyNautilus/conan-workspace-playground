@@ -1,0 +1,9 @@
+{
+ "options": [],
+ "root": {
+  "name": "liba",
+  "version": "0.1",
+  "user": "andrey",
+  "channel": "ws"
+ }
+}
